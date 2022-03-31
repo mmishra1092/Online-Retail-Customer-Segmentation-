@@ -13,4 +13,12 @@ Recency – How recently did the customer purchase? Frequency – How often do t
 
 Segmentation with K-means clustering: Initially, the data is subject to important stages in an analytics pipeline: exploratory analysis, preprocessing, feature engineering and standardizaton. Then, the unsupervised classification technique, K-means clustering algorithm, is used to determine the ideal segments of customers. Silhouette analysis and related cluster visualizations are leveraged to deduce the optimum value of "K" (number of clusters) in the algorithm. The observations from the results are elaborately discussed before reaching the conclusion from the business perspective.
 
-Click Here to view Presentation in Pdf()
+Click Here to view Presentation in Pdf(https://github.com/mmishra1092/Online-Retail-Customer-Segmentation-/blob/main/Online%20Retail%20Customer%20Segmentation%20Presentation.pdf)
+
+Final Conclusion :
+
+• K-Means Clustering with Silhouette gives the highest score of 0.39 for number of clusters 2.
+
+• Sales has been increased from 2010 to 2011.
+
+• RFM for Cluster ID box plots tells well about Cluster detail.
